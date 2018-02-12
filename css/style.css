@@ -1,0 +1,55 @@
+/* CSS: Cascading style Sheets */
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+  body{
+      background-color: #E59866;
+      font-family: 'Oswald', sans-serif;
+      }
+  h1{
+      color: #CD5C5C;
+      font-family: 'Merriweather', serif;
+  }
+  h2{
+      color: lightblue
+  }
+  a:hover{
+    font-size: 20pt;
+  }
+  a:visited{
+    color: red
+  }
+  a:active{
+      font-size: 50pt;
+
+  }
+  a{
+
+  }
+
+  ul{
+
+  }
+
+  /* specific css by naming IDs or list */
+  .History{
+    color: blue;
+    background-color: green;
+    margin-left: 130px;
+    margin: 30px, 50px, 100px, 0;ß
+  }
+  p {
+    color: red;
+    background-color: yellow;
+    margin-left: 130px;
+    margin: 30px, 50px, 100px, 0;
+  }
+
+  #idName{
+
+  }
+  #OurBigTitle{
+      color : red;
+      font-size: 40pt;
+
+  }
+}
