@@ -35,13 +35,13 @@
     color: blue;
     background-color: green;
     margin-left: 130px;
-    margin: 30px, 50px, 100px, 0;ß
+    margin: 30px 50px 10px 0;
   }
   p {
-    color: red;
+    color: blue;
     background-color: yellow;
     margin-left: 130px;
-    margin: 30px, 50px, 100px, 0;
+    margin: 30px 50px 10px 0;
   }
 
   #idName{
@@ -52,4 +52,3 @@
       font-size: 40pt;
 
   }
-}
